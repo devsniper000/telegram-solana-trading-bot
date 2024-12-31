@@ -3,7 +3,7 @@ Telegram Trading Bot to trade solana tokens on Raydium, Meteora, Orca, Pump.fun
 
 ## Contact Info
 
-Telegram: https://t.me/magicsolwiz Discord: m_solwiz
+Telegram: https://t.me/cryptomonster0977 Discord: devsniper000
 
 Please feel free to reach out to me here if you need assistance with any your projects.
 
@@ -52,5 +52,3 @@ npm install
 npm run start
 ```
 
-## Tip
-I am always looking for ways to make my script run faster. Could you please send me some tips to this address? **4tbodFZaz6tH1PmZ1ujY3s85dxzUugRjS7ZwR5hnMCPZ** Your help would be greatly appreciated for my future development.
